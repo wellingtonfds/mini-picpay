@@ -1,0 +1,12 @@
+spring.application.name=minpicpay
+
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.datasource.driver-class-name=
+
+spring.jpa.database-platform=
+spring.jpa.hibernate.ddl-auto=
+spring.jpa.show-sql=
+spring.jpa.properties.hibernate.format_sql=
